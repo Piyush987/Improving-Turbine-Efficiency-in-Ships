@@ -63,3 +63,8 @@ Decision: Training Accuracy :- 1.000000, Testing Accuracy :- 0.958500, Error :- 
 
 
 Random Forest: Training Accuracy :- 0.998257, Testing Accuracy :- 0.988999, Error :- 0.005896
+
+
+
+## Inference
+We can say that the data for both turbines and compressors can be accurately calculated with least error by Random Forest models and this model should be further used to predict decay state coefficient for most of the ships of the company and take business decisions accordingly.
