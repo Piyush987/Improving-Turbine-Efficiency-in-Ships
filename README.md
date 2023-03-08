@@ -1,6 +1,8 @@
 # Gas-Turbine-Data
 
-An exhaustive dataset of Ship's logs containing data from gas turbine rate of revoution to lever position and ship speed and the correlation between all these parameters  with the decay state coefficient(rate at which turbine energy decays) of compressor, turbines in the ship.
+An exhaustive dataset of Ship's logs containing data from gas turbine rate of revoution to lever position and ship speed and the correlation between all these parameters with the decay state coefficient(rate at which turbine energy decays) of compressor, turbines in the ship.
+
+The aim of this project is to accurately calculate the decay state coefficient that helps in predicting the frequency of maintenance and give timely repairs to the ship's turbines and compressors that helps in not only being energy efficient but also prevents ship mishaps at sea and save thousands of dollars.  
 
 ### Dataset:
 
