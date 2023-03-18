@@ -27,42 +27,26 @@ Phases of the project are as follows:
 ### Results :
 
 
-#### 1. For Compressor Decay:
+1. For Compressor Decay:
 
-
-Linear Regression: Training Accuracy :- 0.843676, Testing Accuracy :- 0.840362, Error :- 0.163777
-
-
-
-KNN: Training Accuracy :- 0.955039, Testing Accuracy :- 0.918073, Error :- 0.084051
-
-
-
-Decision: Training Accuracy :- 1.000000, Testing Accuracy :- 0.984062, Error :- 0.016351
+| Models               | Training Accuracy  | Testing Accuracy  | Error    |
+| -------------        |:------------------:| -----------------:| ------:  |
+| Linear Regression    | 0.843676           | 0.840362          | 0.163777 |
+| KNN                  | 0.955039           | 0.918073          | 0.084051 |
+| Decision Tree        | 1.000000           | 0.984062          | 0.016351 |
+| Random Forest        | 0.999092           | 0.994253          | 0.005896 |
 
 
 
-Random Forest: Training Accuracy :- 0.999092, Testing Accuracy :- 0.994253, Error :- 0.005896
+ 2. For Turbine Decay:
 
+| Models               | Training Accuracy  | Testing Accuracy  | Error    |
+| -------------        |:------------------:| -----------------:| ------:  |
+| Linear Regression    | 0.911244           | 0.910862          | 0.005896 |
+| KNN                  | 0.914175           | 0.860251          | 0.005896 |
+| Decision Tree        | 1.000000           | 0.958500          | 0.005896 |
+| Random Forest        | 0.998257           | 0.988999          | 0.005896 |
 
-
-#### 2. For Turbine Decay:
-
-
-
-Linear Regression: Training Accuracy :- 0.911244, Testing Accuracy :- 0.910862, Error :- 0.005896
-
-
-
-KNN: Training Accuracy :- 0.914175, Testing Accuracy :- 0.860251, Error :- 0.005896
-
-
-
-Decision: Training Accuracy :- 1.000000, Testing Accuracy :- 0.958500, Error :- 0.005896
-
-
-
-Random Forest: Training Accuracy :- 0.998257, Testing Accuracy :- 0.988999, Error :- 0.005896
 
 
 
